@@ -106,17 +106,28 @@
 	</div>
 </section>
 
+<section id="separador">
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="box-img">
+				
+			</div>
+		</div>
+	</div>
+</section>
+
 <section class="galeria">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h2 class="title">Galeria</h2>
+				<h2 class="title">Nosso Trabalho</h2>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-lg-6">
-				<div>
-					
+				<div id="owl-example" class="owl-carousel">
+				  <div> Your Content </div>
+				  <div> Your Content </div>
 				</div>
 			</div>
 			<div class="col-lg-6">
